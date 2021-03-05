@@ -1,19 +1,19 @@
 <!-- 
-Las etiquetas <div id=""></div> que encuentra alrededor del codigo son utilizadas para que el link en la tabla de contenido valla exactamente donde le indique sin necesidad de cambiar el nombre del titulo.
-Alrededor del codigo van a ir algunos comentarios esto para separar e identificar facilmente el contenido.
+Las etiquetas <div id=""></div> que encuentra alrededor del codigo son utilizadas para que el link en la tabla de contenido vaya exactamente donde le indique sin necesidad de cambiar el nombre del titulo.
+Alrededor del codigo van a ir algunos comentarios para separar e identificar facilmente el contenido.
 -->
 
 # Contenido de ayuda de codeAnts
 
 ---
 
-Este contenido fue posible gracias a la participación de los miembros del servidor de discord. 
+Este contenido fue posible gracias a la participación de los miembros del servidor de discord.
 
 El repositorio contiene listas de cursos, herramientas, videos, libros, tutoriales, etc. sobre muchas tecnologías. La mayoría de los recursos son gratis y estarán en español.
 
-### ¿Como contribuir?
+### ¿Cómo contribuir?
 
-Estaremos agradecidos de recibir cualquier contribución. Toda la información acerca de como contribuir al repositorio la puedes encontrar en el [CONTRIBUTING.md](CONTRIBUTING.md)
+Estaremos agradecidos de recibir cualquier contribución. Toda la información acerca de como contribuir al repositorio la puedes encontrar en [CONTRIBUTING.md](CONTRIBUTING.md)
 
 <!-- !______________________________TABLA DE CONTENIDO______________________________ -->
 
@@ -44,8 +44,9 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
     - [Juegos](#juegos)
     - [Mecanografia](#mecanografia)
     - [Shell](#shell)
-
 * [Foros](#foros)
+
+---
 
 <!-- !______________________________CATEGORIA LIBROS______________________________ -->
 
@@ -64,7 +65,7 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 #### Rust
 
-* [The rust programming language](https://doc.rust-lang.org/book/) ~ Libro oficial de Rust ~ (Ingles)
+* [The Rust programming language](https://doc.rust-lang.org/book/) ~ Libro oficial de Rust ~ (Ingles)
 * [Rusty lab](http://futurelab.mx/rusty-lab/)
 
 ## Tutoriales
@@ -73,13 +74,13 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 #### Rust
 
-* [Tour of rust](https://tourofrust.com/) ~ (Ingles)
+* [Tour of Rust](https://tourofrust.com/) ~ (Ingles)
 
 <div id="got"></div>
 
 #### Golang
 
-* [Tour of golang](https://tour.golang.org/welcome/1) ~ (Ingles)
+* [Tour of GoLang](https://tour.golang.org/welcome/1) ~ (Ingles)
 
 <div id="gitt"></div>
 
@@ -95,7 +96,7 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 * [Real Python](https://realpython.com/) ~ Sitio web dedicado a tutoriales de python ~ (Ingles)
 
-<!-- !______________________________FING CATEGORIA LIBROS______________________________ -->
+<!-- !______________________________FIN CATEGORIA LIBROS______________________________ -->
 
 <!-- !______________________________CATEGORIA CURSOS______________________________ -->
 
@@ -105,9 +106,9 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 #### Python
 
-* [Programming Essentials in Python](https://www.netacad.com/es/virtual/pcap-programming-essentials-python?utm_source=facebook&utm_medium=link_ad&utm_campaign=esp_netacad_python&fbclid=PAAaYpz9vRZ0MLusNZ9R4oKhTrM_qtiWK5hhjcB8OEyHw7RBCz-LrHT8xIorM#anchor)
-* [Curso de Python de pildoras informaticas](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=1) ~ Uno de los cursos de Python mas completos que hay en Youtube, que no solo abarca python, tambien enseñan librerias como Ktinker para interfaces graficas y SQLite.
-* [Curso de Django de Pildoras Informaticas](https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB&index=1) ~ Este curso explica el framework de Python mas usado para hacer Paginas Webs, Django, recomendado si te gusta el desarrollo web.
+* [Programming Essentials in Python](https://www.netacad.com/es/virtual/pcap-programming-essentials-python?utm_source=facebook&utm_medium=link_ad&utm_campaign=esp_netacad_python&fbclid=PAAaYpz9vRZ0MLusNZ9R4oKhTrM_qtiWK5hhjcB8OEyHw7RBCz-LrHT8xIorM#anchor) ~ Curso de CISCO, de pago.
+* [Curso de Python de pildoras informaticas](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=1) ~ Uno de los cursos de Python mas completos que hay en Youtube, que no solo abarca Python, tambien enseñan librerias como Ktinker para interfaces graficas y SQLite.
+* [Curso de Django de Pildoras Informaticas](https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB&index=1) ~ Este curso explica el framework de Python mas usado para hacer paginas webs, Django, recomendado si te gusta el desarrollo web.
  
 <div id="vimc"></div>
 
@@ -126,7 +127,7 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 #### Programación web
 
-* [Curso de programación web de Soy Dalto](https://www.youtube.com/watch?v=kN1XP-Bef7w&list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb) ~ Este curso que va en su tercera entrega con el curso de JavaScript es uno de los mas completos de youtube, ya que explora todas las funciones de HTML, CSS y JavaScript completmnte gratis.
+* [Curso de programación web de Soy Dalto](https://www.youtube.com/watch?v=kN1XP-Bef7w&list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb) ~ Este curso que va en su tercera entrega con el curso de JavaScript es uno de los mas completos de YouTube, ya que explora todas las funciones de HTML, CSS y JavaScript completmnte gratis.
 * [Curso de programación Basica de Platzi](https://platzi.com/clases/programacion-basica/) ~ Curso gratuito en donde te enseñaran sobre HTML y JavaScript con una certificación al terminar.
 * [Curso de Introduccion a la web](https://edutin.com/curso-de-introduccion-a-la-web-4222) ~ Este es un curso impartido por la Universidad De Havard en su programa CS50 y CS51, es recomendado que hayas dado el curso de introduccion a la programacion que se encuentra en edutin, que es el mismo CS50 en español.
 * [Curso de programación web](https://edutin.com/curso-de-programacion-web-4250) ~ Esta es la continuacion del curso anterior este hace parte del programa CS51, pero esta traducido al español.
@@ -161,7 +162,7 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [mdBook](https://github.com/rust-lang/mdBook) ~ Escribe libros con markdown
 * [Code wars](https://www.codewars.com/) ~ Desafíos, retos y ejercicios de muchos lenguajes de programación
 
-#### Terminales
+#### Terminales y emuladores
 
 * [Alacritty](https://github.com/alacritty/alacritty)  
 * [Cmder](https://cmder.net/) 
@@ -186,16 +187,16 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 #### Juegos
 
-* [CodeComabat](https://codecombat.com/) ~ Web para enseñar programación con juegos interactivos ~ (Ingles)
+* [CodeCombat](https://codecombat.com/) ~ Web para enseñar programación con juegos interactivos ~ (Ingles)
 
 #### Mecanografia
 
 * [KeyBr](https://www.keybr.com/)
 * [Typing Club](https://www.typingclub.com/) ~ Curso para mejorar tus habilidades en la mecanográfia
 
-#### Shell
+#### Temas de Shell
 
-* [Oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh) ~ Dale estilo a tu poweshell
+* [Oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh) ~ Dale estilo a tu PowerShell
 
 <!-- !______________________________FIN CATEGORIA HERRAMIENTAS______________________________ -->
 
